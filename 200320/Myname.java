@@ -1,6 +1,6 @@
 class Myname{
 	public static void main(String [] args){
-		System.out.println("ÀÌÀåÈÆ");
+		System.out.println("ì´ì¥í›ˆ");
 		System.out.printf("2016114089");
 	}
 }
