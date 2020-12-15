@@ -32,7 +32,7 @@
 ```
 - Sen.java : 문장과 단어를 입력받아 문장에서 단어를 검색한 결과를 출력하는 프로그램
 ```
-### 200424 : [커맨드 라인 입력](https://github.com/bh2980/20201_JavaProgramming/tree/main/200424)
+### [200424 : 커맨드 라인 입력](https://github.com/bh2980/20201_JavaProgramming/tree/main/200424)
 ```
 - HW5_1A_코드. java : 커맨드 라인에 하나의 문자열을 입력받아 영어 자음과 모음 개수를 출력하는 프로그램
 - HW5_1B_코드.java : 커맨드 라인에 하나의 문자열을 입력받아 역순으로 출력하는 프로그램
@@ -71,18 +71,18 @@
  - 1.java : 학생의 정보를 받아 객체를 생성하고 테스트하는 코드
  - 2.java : 통호회의 Member를 클래스로 구현하여 동호회 멤버가 총 몇 명인지 출력하는 프로그램
 ```
-### 200529 : [상속](https://github.com/bh2980/20201_JavaProgramming/tree/main/200529)
+### [200529 : 상속](https://github.com/bh2980/20201_JavaProgramming/tree/main/200529)
 ```
  - 1.java : 둘레와 넓이를 필드로 가지는 Figure 클래스를 작성하여 이를 상속하는 Circle, EquilateralTriangle 
             클래스를 작성하여 각 객체의 모든 정보를 출력하는 프로그램을 구현한 코드
 ```
-### 200605 : [상속 및 캐스팅](https://github.com/bh2980/20201_JavaProgramming/tree/main/200605)
+### [200605 : 상속 및 캐스팅](https://github.com/bh2980/20201_JavaProgramming/tree/main/200605)
 ```
 - 1_code.java : 동물, 고양이, 돌고래, 비둘기 클래스를 작성하여 테스트하는 코드
 - 2_code.java : 국어, 수학, 영어, 과학 클래스를 작성한 코드
 - 4_code.java : Car, Bike, 차고, 테스트 클래스를 작성하여 자동차와 자전거를 차고에 저장하는 것을 구현하는 코드
 ```
-### 200612 : [문자열 정수 변환](https://github.com/bh2980/20201_JavaProgramming/tree/main/200612)
+### [200612 : 문자열 정수 변환](https://github.com/bh2980/20201_JavaProgramming/tree/main/200612)
 ```
 - 1_code.java : String 타입의 배열을 받아 저장된 문자열을 정수로 변환하여 출력하는 프로그램
 - 2_code.java : 나이를 입력받아 10년후의 나이를 출력하는 프로그램.
