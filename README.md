@@ -1,5 +1,6 @@
 # 20201_JavaProgramming
 2020년 1학기에 수강한 자바프로그래밍(COMP217003) 과목 코드 정리
+-----
 
 ### [200320 : Java 기초](https://github.com/bh2980/20201_JavaProgramming/tree/main/200320)
 ```
@@ -87,3 +88,5 @@
 - 1_code.java : String 타입의 배열을 받아 저장된 문자열을 정수로 변환하여 출력하는 프로그램
 - 2_code.java : 나이를 입력받아 10년후의 나이를 출력하는 프로그램.
 ```
+
+------
