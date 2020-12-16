@@ -1,1 +1,3 @@
-
+- 1_code.java : Car의 객체를 생성하고 A지점을 출발하여 B지점에 도착하는 Driver 클래스를 작성한 코드
+- 2_code.java : 문자열을 처리하는 StringManipulate 클래스를 만들어 
+                concat, toUpper, equals함수를 작성하여 구현한 코드
